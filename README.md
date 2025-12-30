@@ -8,7 +8,7 @@ This project is part of my frontend developer portfolio and focuses on real-worl
 
 ## ✨ Live Demo
 
-🚧 Deployment in progress
+🔗 Live Demo: https://personal-finance-dashboard-rosy-sigma.vercel.app/
 
 ![Desktop](image.png)
 ![Mobile](image-1.png)
